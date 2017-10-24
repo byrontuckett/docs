@@ -4,7 +4,7 @@ toc: true
 crews: crew-2
 ---
 
-# Invite-only Applications
+# Invite-Only Applications
 
 Self-service provisioning is a common concept for SaaS applications. Users can register and pay and then begin using the application.
 
